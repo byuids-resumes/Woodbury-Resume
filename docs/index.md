@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Andrew Woodbury's Resume
 ---
 # Andrew Woodbury
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Industrial/Organizational Psychology Student at Brigham Young University-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
