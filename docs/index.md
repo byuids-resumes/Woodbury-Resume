@@ -21,58 +21,30 @@ __Brigham Young Univesity__, Rexburg, ID
 
 - Half academic scholarship with 3.9 GPA
 
+## Tools
+__Advanced:__ Microsoft Office
+__Competent:__ R, Python, and MySQL
 
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Experience
 
 
-## Service and Work History
+`January 2019 - April 2022`
+__McDonalds__, Preventative Maintenance
 
-`2019-2022`
-__Preventative Maintenance__, McDonald's
+-	Trusted to lead the front of the store for periods of time to improve communication between the kitchen and front service staff, resulting in a higher level of customer satisfaction and more orders being completed on time 
+-	Maintaining a clean and safe store, according to osha standards, to ensure that all food leaving the store meets the golden standard, every worker is safe, and every customer’s experience is enhanced
+-	Asked to received training in all three main positions in the store (Service, Kitchen, and Maintenance), in order to be a well-rounded employee and knowledgeable in how the store is run
 
+
+`January 2016 - October 2016`
+__Rakey's__, Courtesy Clerk
+
+-	Responsible for introductory training for new courtesy clerks through shadowing to create an understanding of how courtesy clerks can shape the store through example
+-	Hustle around the store to take care of hazards, get information for customers, and assist co-workers with any problems they might have had so they could get all of their tasks done
+
+
+## Service
 
 `2016-2018`
 __Service Missionary__, Houston, Texas
