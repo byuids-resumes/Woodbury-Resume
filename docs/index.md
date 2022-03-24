@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
+# Andrew Woodbury
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,15 +16,12 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-Expected 2023`
+__Brigham Young Univesity__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Half academic scholarship with 3.9 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 
 
 ## Related Experience
@@ -73,12 +70,12 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2019-2022`
+__Preventative Maintenance__, McDonald's
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2018`
+__Service Missionary__, Houston, Texas
 
 
 
