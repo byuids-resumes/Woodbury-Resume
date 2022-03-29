@@ -22,7 +22,7 @@ __Brigham Young Univesity__, Rexburg, ID
 - Half academic scholarship with 3.9 GPA
 
 ## Tools
-__Advanced:__ Microsoft Office
+__Advanced:__ Microsoft Office 
 __Competent:__ R, Python, and MySQL
 
 
@@ -38,7 +38,7 @@ __McDonalds__, Preventative Maintenance
 
 
 `January 2016 - October 2016`
-__Rakey's__, Courtesy Clerk
+__Raley's__, Courtesy Clerk
 
 -	Responsible for introductory training for new courtesy clerks through shadowing to create an understanding of how courtesy clerks can shape the store through example
 -	Hustle around the store to take care of hazards, get information for customers, and assist co-workers with any problems they might have had so they could get all of their tasks done
