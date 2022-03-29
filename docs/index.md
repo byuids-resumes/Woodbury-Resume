@@ -48,7 +48,10 @@ __Raley's__, Courtesy Clerk
 
 `2016-2018`
 __Service Missionary__, Houston, Texas
-
+-	Maintained an 80+ hour work week for 1.5 years, teaching Christian principles to hundreds of families and 
+individuals
+-	Supervised and frequently trained other young adults serving as church volunteers 
+-	Learned valuable skills such as self-motivation, leadership and discipline
 
 
 <!-- ### Footer
