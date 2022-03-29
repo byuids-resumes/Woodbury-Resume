@@ -17,7 +17,7 @@ Industrial/Organizational Psychology Student at Brigham Young University-Idaho
 ## Education
 
 `2019-Expected 2023`
-__Brigham Young Univesity__, Rexburg, ID
+__Brigham Young Univesity__,  Rexburg, ID
 
 - Half academic scholarship with 3.9 GPA
 
